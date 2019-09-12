@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2019.07.31., 11:27:03
+    Author     : Verosffy
+*/
+.figyelj{
+    color:red;
+    text-align: center;
+    font-size: 150%;
+    font-style: italic;
+}
+h1{
+    font-size: 130%;
+}
+p{
+    text-align: justify;
+}
+
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: blue;
+    font-size: 140%;
+}
+table{
+    border-collapse: collapse;
+    padding :30px;
+    margin-left: 50px;
+}
+tr{
+    border-color: blue;
+}
+
+
